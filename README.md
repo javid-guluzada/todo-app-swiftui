@@ -40,8 +40,8 @@ To persist the to-do list data, this app uses `UserDefaults`. However, `UserDefa
 
 ## Screenshots
 
-<img src="https://github.com/javid-guluzada/todo-app-swiftui/blob/675f69a5cdc85f5a36fc0b73782f114ea3b24ea8/screenshots/screenshot_1.png?raw=true" width="300">  <img src="https://github.com/javid-guluzada/todo-app-swiftui/blob/675f69a5cdc85f5a36fc0b73782f114ea3b24ea8/screenshots/screenshot_2.png?raw=true" width="300">  <img src="https://github.com/javid-guluzada/todo-app-swiftui/blob/675f69a5cdc85f5a36fc0b73782f114ea3b24ea8/screenshots/screenshot_3.png?raw=true" width="300">
+<img src="https://github.com/javid-guluzada/todo-app-swiftui/blob/675f69a5cdc85f5a36fc0b73782f114ea3b24ea8/screenshots/screenshot_1.png?raw=true" width="270">  <img src="https://github.com/javid-guluzada/todo-app-swiftui/blob/675f69a5cdc85f5a36fc0b73782f114ea3b24ea8/screenshots/screenshot_2.png?raw=true" width="270">  <img src="https://github.com/javid-guluzada/todo-app-swiftui/blob/675f69a5cdc85f5a36fc0b73782f114ea3b24ea8/screenshots/screenshot_3.png?raw=true" width="270">
 
 ### Gif
 
-<img src="https://github.com/javid-guluzada/todo-app-swiftui/blob/675f69a5cdc85f5a36fc0b73782f114ea3b24ea8/screenshots/todo-app-swiftui.gif?raw=true" width="300">
+<img src="https://github.com/javid-guluzada/todo-app-swiftui/blob/675f69a5cdc85f5a36fc0b73782f114ea3b24ea8/screenshots/todo-app-swiftui.gif?raw=true" width="270">
